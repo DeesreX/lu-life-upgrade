@@ -1,0 +1,6 @@
+make all --dry-run --keep-going --print-directory
+make: Entering directory '/home/eddy/.lu-life-upgrade'
+make: Leaving directory '/home/eddy/.lu-life-upgrade'
+ 
+make: *** No rule to make target 'all'.
+ 
